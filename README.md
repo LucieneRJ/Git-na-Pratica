@@ -1,3 +1,4 @@
+![GitHub top language](https://img.shields.io/github/languages/top/LucieneRJ/Git-na-Pratica)
 # Git-na-Pratica
 ## Curso de Git na pratica
 Aprendendo Git Bash
